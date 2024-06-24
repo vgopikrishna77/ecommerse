@@ -1,0 +1,9 @@
+.add-product-container{
+    width:40%;
+    margin: auto;
+}
+@media (max-width:500px){
+    .add-product-container{
+        width: 80%;
+    }
+}
